@@ -1298,13 +1298,13 @@
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
-"@screens/payment-split-screen@file:./screens/payment-split-screen/":
-  version "1.0.0"
-
 "@screens/payment-subscription@file:./screens/payment-subscription":
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":
+  version "1.0.0"
+
+"@screens/privacy-policy@file:./screens/privacy-policy/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
