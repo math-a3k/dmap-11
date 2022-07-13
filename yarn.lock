@@ -1066,6 +1066,12 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
+"@modules/articles@file:./modules/articles":
+  version "1.0.0"
+
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
 "@modules/camera@file:./modules/camera":
   version "1.0.1"
   dependencies:
@@ -1302,9 +1308,6 @@
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":
-  version "1.0.0"
-
-"@screens/privacy-policy@file:./screens/privacy-policy/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

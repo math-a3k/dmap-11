@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "@modules/articles": "file:./modules/articles/",
     "@modules/camera": "file:./modules/camera",
     "@modules/payments": "file:./modules/payments",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
