@@ -1082,7 +1082,7 @@
   dependencies:
     react-native-render-html "^5.1.0"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1302,6 +1302,9 @@
   version "1.0.0"
 
 "@screens/payment-subscription@file:./screens/payment-subscription":
+  version "1.0.0"
+
+"@screens/terms-and-conditions@file:./screens/terms-and-conditions/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
