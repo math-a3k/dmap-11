@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [screen-payment-subscriptions](screens/payment-subscription)
 - [screen-payment-split](screens/payment-split-screen)
+- [django-push-notifications](backend/modules)
 
 # Getting started: Frontend
 

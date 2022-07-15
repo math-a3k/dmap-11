@@ -35,3 +35,4 @@ pipenv = "*"
 cb-camera = {editable = true, path = "./modules/camera"}
 cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
 cb-payments = {editable = true, path = "./modules/payments"}
+cb-django-push-notifications = {editable = true, path = "./modules/django_push_notifications"}
