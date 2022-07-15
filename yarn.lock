@@ -1085,6 +1085,11 @@
 "@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
+"@modules/terms-and-conditions@file:./modules/terms-and-conditions":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
 "@react-native-community/cli-debugger-ui@^5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-5.0.1.tgz#6b1f3367b8e5211e899983065ea2e72c1901d75f"
@@ -1304,7 +1309,7 @@
 "@screens/payment-subscription@file:./screens/payment-subscription":
   version "1.0.0"
 
-"@screens/terms-and-conditions@file:./screens/terms-and-conditions/":
+"@screens/terms-and-conditions@file:./screens/terms-and-conditions":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
