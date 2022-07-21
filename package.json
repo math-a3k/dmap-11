@@ -22,7 +22,6 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
-    "@screens/payment-split-screen": "file:./screens/payment-split-screen/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@stripe/stripe-react-native": "^0.2.2",
